@@ -1,0 +1,55 @@
+body
+{
+	font-family: "Segoe UI", "Lucida Grande", Tahoma, sans-serif;
+	font-size: 12px;
+	text-align: center;
+	background-image: url("yelp2.png");
+	background-size: cover;
+}
+
+table
+{
+	margin: 15px 15px 0 15px;
+}
+
+table tr
+{
+	height: 30px;
+}
+
+#find
+{
+	margin: 8px;
+	height: 50px;
+	width: 100px;
+	border: 1px solid black;
+	background-color: #FFFFFF;
+	float: left;
+	position: relative;
+	overflow:visible;
+}
+
+#info
+{
+	margin:12px;
+}
+
+#status
+{
+	font-size: 16px;
+}
+
+#myButton
+{
+	margin: 8px;
+	height: 50px;
+	width: 100px;
+	border: 1px solid black;
+	background-color: #FFFFFF;
+}
+
+#findText
+{
+	color: red;
+}
+
